@@ -1,0 +1,2 @@
+# VueHighChartsStackedBars
+Created with CodeSandbox
